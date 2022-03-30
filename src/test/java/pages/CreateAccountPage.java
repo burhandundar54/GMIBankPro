@@ -59,7 +59,7 @@ public class CreateAccountPage {
     @FindBy(xpath = "(//div [@class='invalid-feedback'])[2]")
     public WebElement NonNumericBalance;
 
-
+//public
 
 
 
